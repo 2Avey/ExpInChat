@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpInChat", "ExpInChat\ExpInChat.csproj", "{E7FFC9EC-F14C-4FBC-AFE3-80FAFD9CAD62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7FFC9EC-F14C-4FBC-AFE3-80FAFD9CAD62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7FFC9EC-F14C-4FBC-AFE3-80FAFD9CAD62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7FFC9EC-F14C-4FBC-AFE3-80FAFD9CAD62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7FFC9EC-F14C-4FBC-AFE3-80FAFD9CAD62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE2A07D7-0B62-4D09-AB33-B61539A8FB00}
+	EndGlobalSection
+EndGlobal

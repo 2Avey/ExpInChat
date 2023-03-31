@@ -1,0 +1,375 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "OpenMod.UnityEngine.Redist/2019.4.10": {
+        "type": "package",
+        "compile": {
+          "lib/net461/UnityEngine.AIModule.dll": {},
+          "lib/net461/UnityEngine.ARModule.dll": {},
+          "lib/net461/UnityEngine.AccessibilityModule.dll": {},
+          "lib/net461/UnityEngine.AndroidJNIModule.dll": {},
+          "lib/net461/UnityEngine.AnimationModule.dll": {},
+          "lib/net461/UnityEngine.AssetBundleModule.dll": {},
+          "lib/net461/UnityEngine.AudioModule.dll": {},
+          "lib/net461/UnityEngine.ClothModule.dll": {},
+          "lib/net461/UnityEngine.ClusterInputModule.dll": {},
+          "lib/net461/UnityEngine.ClusterRendererModule.dll": {},
+          "lib/net461/UnityEngine.CoreModule.dll": {},
+          "lib/net461/UnityEngine.CrashLog.dll": {},
+          "lib/net461/UnityEngine.CrashReportingModule.dll": {},
+          "lib/net461/UnityEngine.DSPGraphModule.dll": {},
+          "lib/net461/UnityEngine.DirectorModule.dll": {},
+          "lib/net461/UnityEngine.GameCenterModule.dll": {},
+          "lib/net461/UnityEngine.GridModule.dll": {},
+          "lib/net461/UnityEngine.HotReloadModule.dll": {},
+          "lib/net461/UnityEngine.IMGUIModule.dll": {},
+          "lib/net461/UnityEngine.ImageConversionModule.dll": {},
+          "lib/net461/UnityEngine.InputLegacyModule.dll": {},
+          "lib/net461/UnityEngine.InputModule.dll": {},
+          "lib/net461/UnityEngine.JSONSerializeModule.dll": {},
+          "lib/net461/UnityEngine.LocalizationModule.dll": {},
+          "lib/net461/UnityEngine.ParticleSystemModule.dll": {},
+          "lib/net461/UnityEngine.PerformanceReportingModule.dll": {},
+          "lib/net461/UnityEngine.Physics2DModule.dll": {},
+          "lib/net461/UnityEngine.PhysicsModule.dll": {},
+          "lib/net461/UnityEngine.ProfilerModule.dll": {},
+          "lib/net461/UnityEngine.ScreenCaptureModule.dll": {},
+          "lib/net461/UnityEngine.SharedInternalsModule.dll": {},
+          "lib/net461/UnityEngine.SpriteMaskModule.dll": {},
+          "lib/net461/UnityEngine.SpriteShapeModule.dll": {},
+          "lib/net461/UnityEngine.StreamingModule.dll": {},
+          "lib/net461/UnityEngine.SubstanceModule.dll": {},
+          "lib/net461/UnityEngine.SubsystemsModule.dll": {},
+          "lib/net461/UnityEngine.TLSModule.dll": {},
+          "lib/net461/UnityEngine.TerrainModule.dll": {},
+          "lib/net461/UnityEngine.TerrainPhysicsModule.dll": {},
+          "lib/net461/UnityEngine.TextCoreModule.dll": {},
+          "lib/net461/UnityEngine.TextRenderingModule.dll": {},
+          "lib/net461/UnityEngine.TilemapModule.dll": {},
+          "lib/net461/UnityEngine.UI.dll": {},
+          "lib/net461/UnityEngine.UIElementsModule.dll": {},
+          "lib/net461/UnityEngine.UIModule.dll": {},
+          "lib/net461/UnityEngine.UNETModule.dll": {},
+          "lib/net461/UnityEngine.UmbraModule.dll": {},
+          "lib/net461/UnityEngine.UnityAnalyticsModule.dll": {},
+          "lib/net461/UnityEngine.UnityConnectModule.dll": {},
+          "lib/net461/UnityEngine.UnityTestProtocolModule.dll": {},
+          "lib/net461/UnityEngine.UnityWebRequestAssetBundleModule.dll": {},
+          "lib/net461/UnityEngine.UnityWebRequestAudioModule.dll": {},
+          "lib/net461/UnityEngine.UnityWebRequestModule.dll": {},
+          "lib/net461/UnityEngine.UnityWebRequestTextureModule.dll": {},
+          "lib/net461/UnityEngine.UnityWebRequestWWWModule.dll": {},
+          "lib/net461/UnityEngine.VFXModule.dll": {},
+          "lib/net461/UnityEngine.VRModule.dll": {},
+          "lib/net461/UnityEngine.VehiclesModule.dll": {},
+          "lib/net461/UnityEngine.VideoModule.dll": {},
+          "lib/net461/UnityEngine.WindModule.dll": {},
+          "lib/net461/UnityEngine.XRModule.dll": {},
+          "lib/net461/UnityEngine.dll": {}
+        },
+        "runtime": {
+          "lib/net461/UnityEngine.AIModule.dll": {},
+          "lib/net461/UnityEngine.ARModule.dll": {},
+          "lib/net461/UnityEngine.AccessibilityModule.dll": {},
+          "lib/net461/UnityEngine.AndroidJNIModule.dll": {},
+          "lib/net461/UnityEngine.AnimationModule.dll": {},
+          "lib/net461/UnityEngine.AssetBundleModule.dll": {},
+          "lib/net461/UnityEngine.AudioModule.dll": {},
+          "lib/net461/UnityEngine.ClothModule.dll": {},
+          "lib/net461/UnityEngine.ClusterInputModule.dll": {},
+          "lib/net461/UnityEngine.ClusterRendererModule.dll": {},
+          "lib/net461/UnityEngine.CoreModule.dll": {},
+          "lib/net461/UnityEngine.CrashLog.dll": {},
+          "lib/net461/UnityEngine.CrashReportingModule.dll": {},
+          "lib/net461/UnityEngine.DSPGraphModule.dll": {},
+          "lib/net461/UnityEngine.DirectorModule.dll": {},
+          "lib/net461/UnityEngine.GameCenterModule.dll": {},
+          "lib/net461/UnityEngine.GridModule.dll": {},
+          "lib/net461/UnityEngine.HotReloadModule.dll": {},
+          "lib/net461/UnityEngine.IMGUIModule.dll": {},
+          "lib/net461/UnityEngine.ImageConversionModule.dll": {},
+          "lib/net461/UnityEngine.InputLegacyModule.dll": {},
+          "lib/net461/UnityEngine.InputModule.dll": {},
+          "lib/net461/UnityEngine.JSONSerializeModule.dll": {},
+          "lib/net461/UnityEngine.LocalizationModule.dll": {},
+          "lib/net461/UnityEngine.ParticleSystemModule.dll": {},
+          "lib/net461/UnityEngine.PerformanceReportingModule.dll": {},
+          "lib/net461/UnityEngine.Physics2DModule.dll": {},
+          "lib/net461/UnityEngine.PhysicsModule.dll": {},
+          "lib/net461/UnityEngine.ProfilerModule.dll": {},
+          "lib/net461/UnityEngine.ScreenCaptureModule.dll": {},
+          "lib/net461/UnityEngine.SharedInternalsModule.dll": {},
+          "lib/net461/UnityEngine.SpriteMaskModule.dll": {},
+          "lib/net461/UnityEngine.SpriteShapeModule.dll": {},
+          "lib/net461/UnityEngine.StreamingModule.dll": {},
+          "lib/net461/UnityEngine.SubstanceModule.dll": {},
+          "lib/net461/UnityEngine.SubsystemsModule.dll": {},
+          "lib/net461/UnityEngine.TLSModule.dll": {},
+          "lib/net461/UnityEngine.TerrainModule.dll": {},
+          "lib/net461/UnityEngine.TerrainPhysicsModule.dll": {},
+          "lib/net461/UnityEngine.TextCoreModule.dll": {},
+          "lib/net461/UnityEngine.TextRenderingModule.dll": {},
+          "lib/net461/UnityEngine.TilemapModule.dll": {},
+          "lib/net461/UnityEngine.UI.dll": {},
+          "lib/net461/UnityEngine.UIElementsModule.dll": {},
+          "lib/net461/UnityEngine.UIModule.dll": {},
+          "lib/net461/UnityEngine.UNETModule.dll": {},
+          "lib/net461/UnityEngine.UmbraModule.dll": {},
+          "lib/net461/UnityEngine.UnityAnalyticsModule.dll": {},
+          "lib/net461/UnityEngine.UnityConnectModule.dll": {},
+          "lib/net461/UnityEngine.UnityTestProtocolModule.dll": {},
+          "lib/net461/UnityEngine.UnityWebRequestAssetBundleModule.dll": {},
+          "lib/net461/UnityEngine.UnityWebRequestAudioModule.dll": {},
+          "lib/net461/UnityEngine.UnityWebRequestModule.dll": {},
+          "lib/net461/UnityEngine.UnityWebRequestTextureModule.dll": {},
+          "lib/net461/UnityEngine.UnityWebRequestWWWModule.dll": {},
+          "lib/net461/UnityEngine.VFXModule.dll": {},
+          "lib/net461/UnityEngine.VRModule.dll": {},
+          "lib/net461/UnityEngine.VehiclesModule.dll": {},
+          "lib/net461/UnityEngine.VideoModule.dll": {},
+          "lib/net461/UnityEngine.WindModule.dll": {},
+          "lib/net461/UnityEngine.XRModule.dll": {},
+          "lib/net461/UnityEngine.dll": {}
+        }
+      },
+      "OpenMod.Unturned.Redist/3.22.8.1": {
+        "type": "package",
+        "compile": {
+          "lib/net461/Assembly-CSharp.dll": {},
+          "lib/net461/SDG.NetPak.Runtime.dll": {},
+          "lib/net461/SDG.NetTransport.dll": {},
+          "lib/net461/SystemEx.dll": {},
+          "lib/net461/UnityEx.dll": {},
+          "lib/net461/com.rlabrecque.steamworks.net.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Assembly-CSharp.dll": {},
+          "lib/net461/SDG.NetPak.Runtime.dll": {},
+          "lib/net461/SDG.NetTransport.dll": {},
+          "lib/net461/SystemEx.dll": {},
+          "lib/net461/UnityEx.dll": {},
+          "lib/net461/com.rlabrecque.steamworks.net.dll": {}
+        }
+      },
+      "RocketMod.Modern.Dependencies/1.1.2.5": {
+        "type": "package",
+        "dependencies": {
+          "OpenMod.UnityEngine.Redist": "2019.4.10",
+          "OpenMod.Unturned.Redist": "3.22.8.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/Rocket.API.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Rocket.Core.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Rocket.Unturned.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Rocket.API.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Rocket.Core.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Rocket.Unturned.dll": {
+            "related": ".pdb"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpenMod.UnityEngine.Redist/2019.4.10": {
+      "sha512": "/PyvYv7cnHqUnKp8jDWdiv1/YPUfaH0j9o2iEIk/oQGYgx2cS4uT5IO8UZPRyM47kZwVzZA4oybsjO/zQoX+5g==",
+      "type": "package",
+      "path": "openmod.unityengine.redist/2019.4.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/net461/UnityEngine.AIModule.dll",
+        "lib/net461/UnityEngine.ARModule.dll",
+        "lib/net461/UnityEngine.AccessibilityModule.dll",
+        "lib/net461/UnityEngine.AndroidJNIModule.dll",
+        "lib/net461/UnityEngine.AnimationModule.dll",
+        "lib/net461/UnityEngine.AssetBundleModule.dll",
+        "lib/net461/UnityEngine.AudioModule.dll",
+        "lib/net461/UnityEngine.ClothModule.dll",
+        "lib/net461/UnityEngine.ClusterInputModule.dll",
+        "lib/net461/UnityEngine.ClusterRendererModule.dll",
+        "lib/net461/UnityEngine.CoreModule.dll",
+        "lib/net461/UnityEngine.CrashLog.dll",
+        "lib/net461/UnityEngine.CrashReportingModule.dll",
+        "lib/net461/UnityEngine.DSPGraphModule.dll",
+        "lib/net461/UnityEngine.DirectorModule.dll",
+        "lib/net461/UnityEngine.GameCenterModule.dll",
+        "lib/net461/UnityEngine.GridModule.dll",
+        "lib/net461/UnityEngine.HotReloadModule.dll",
+        "lib/net461/UnityEngine.IMGUIModule.dll",
+        "lib/net461/UnityEngine.ImageConversionModule.dll",
+        "lib/net461/UnityEngine.InputLegacyModule.dll",
+        "lib/net461/UnityEngine.InputModule.dll",
+        "lib/net461/UnityEngine.JSONSerializeModule.dll",
+        "lib/net461/UnityEngine.LocalizationModule.dll",
+        "lib/net461/UnityEngine.ParticleSystemModule.dll",
+        "lib/net461/UnityEngine.PerformanceReportingModule.dll",
+        "lib/net461/UnityEngine.Physics2DModule.dll",
+        "lib/net461/UnityEngine.PhysicsModule.dll",
+        "lib/net461/UnityEngine.ProfilerModule.dll",
+        "lib/net461/UnityEngine.ScreenCaptureModule.dll",
+        "lib/net461/UnityEngine.SharedInternalsModule.dll",
+        "lib/net461/UnityEngine.SpriteMaskModule.dll",
+        "lib/net461/UnityEngine.SpriteShapeModule.dll",
+        "lib/net461/UnityEngine.StreamingModule.dll",
+        "lib/net461/UnityEngine.SubstanceModule.dll",
+        "lib/net461/UnityEngine.SubsystemsModule.dll",
+        "lib/net461/UnityEngine.TLSModule.dll",
+        "lib/net461/UnityEngine.TerrainModule.dll",
+        "lib/net461/UnityEngine.TerrainPhysicsModule.dll",
+        "lib/net461/UnityEngine.TextCoreModule.dll",
+        "lib/net461/UnityEngine.TextRenderingModule.dll",
+        "lib/net461/UnityEngine.TilemapModule.dll",
+        "lib/net461/UnityEngine.UI.dll",
+        "lib/net461/UnityEngine.UIElementsModule.dll",
+        "lib/net461/UnityEngine.UIModule.dll",
+        "lib/net461/UnityEngine.UNETModule.dll",
+        "lib/net461/UnityEngine.UmbraModule.dll",
+        "lib/net461/UnityEngine.UnityAnalyticsModule.dll",
+        "lib/net461/UnityEngine.UnityConnectModule.dll",
+        "lib/net461/UnityEngine.UnityTestProtocolModule.dll",
+        "lib/net461/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+        "lib/net461/UnityEngine.UnityWebRequestAudioModule.dll",
+        "lib/net461/UnityEngine.UnityWebRequestModule.dll",
+        "lib/net461/UnityEngine.UnityWebRequestTextureModule.dll",
+        "lib/net461/UnityEngine.UnityWebRequestWWWModule.dll",
+        "lib/net461/UnityEngine.VFXModule.dll",
+        "lib/net461/UnityEngine.VRModule.dll",
+        "lib/net461/UnityEngine.VehiclesModule.dll",
+        "lib/net461/UnityEngine.VideoModule.dll",
+        "lib/net461/UnityEngine.WindModule.dll",
+        "lib/net461/UnityEngine.XRModule.dll",
+        "lib/net461/UnityEngine.dll",
+        "openmod.unityengine.redist.2019.4.10.nupkg.sha512",
+        "openmod.unityengine.redist.nuspec"
+      ]
+    },
+    "OpenMod.Unturned.Redist/3.22.8.1": {
+      "sha512": "6b7F/wmsofilrAbBqInW7dOQtxCiM/XiQvfO6kIRgLAxlMin1tf+YMOLDdkDnj2ih/vU3XOJXPb9eWDkjITmUw==",
+      "type": "package",
+      "path": "openmod.unturned.redist/3.22.8.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/net461/Assembly-CSharp.dll",
+        "lib/net461/SDG.NetPak.Runtime.dll",
+        "lib/net461/SDG.NetTransport.dll",
+        "lib/net461/SystemEx.dll",
+        "lib/net461/UnityEx.dll",
+        "lib/net461/com.rlabrecque.steamworks.net.dll",
+        "openmod.unturned.redist.3.22.8.1.nupkg.sha512",
+        "openmod.unturned.redist.nuspec"
+      ]
+    },
+    "RocketMod.Modern.Dependencies/1.1.2.5": {
+      "sha512": "ZdS5dDyF06jD18WbGxx35j+9RviTigpygnzVEKfWNV7yy7GEqQNk/NfCdL1AIdE4A1YfWFUB9DzT4E6G9E9w4Q==",
+      "type": "package",
+      "path": "rocketmod.modern.dependencies/1.1.2.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net472/Newtonsoft.Json.dll",
+        "lib/net472/Rocket.API.dll",
+        "lib/net472/Rocket.API.pdb",
+        "lib/net472/Rocket.Core.dll",
+        "lib/net472/Rocket.Core.pdb",
+        "lib/net472/Rocket.Unturned.dll",
+        "lib/net472/Rocket.Unturned.pdb",
+        "lib/net472/System.ComponentModel.Annotations.dll",
+        "lib/net472/System.ComponentModel.Composition.dll",
+        "lib/net472/System.ComponentModel.DataAnnotations.dll",
+        "lib/net472/System.Configuration.Install.dll",
+        "lib/net472/System.IO.Compression.dll",
+        "lib/net472/System.Management.dll",
+        "lib/net472/System.Net.Http.dll",
+        "lib/net472/System.Net.Primitives.dll",
+        "lib/net472/System.Runtime.Serialization.dll",
+        "lib/net472/System.Runtime.dll",
+        "lib/net472/System.Web.dll",
+        "lib/net472/System.Xml.Linq.dll",
+        "lib/net472/netstandard.dll",
+        "lib/netstandard2.0/Rocket.API.dll",
+        "lib/netstandard2.0/Rocket.API.pdb",
+        "lib/netstandard2.0/Rocket.Core.dll",
+        "lib/netstandard2.0/Rocket.Core.pdb",
+        "lib/netstandard2.0/Rocket.Unturned.dll",
+        "lib/netstandard2.0/Rocket.Unturned.pdb",
+        "rocketmod.modern.dependencies.1.1.2.5.nupkg.sha512",
+        "rocketmod.modern.dependencies.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "RocketMod.Modern.Dependencies >= 1.1.2.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Avey\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Мои роботы\\C# project\\ExpInChat\\ExpInChat\\ExpInChat.csproj",
+      "projectName": "ExpInChat",
+      "projectPath": "D:\\Мои роботы\\C# project\\ExpInChat\\ExpInChat\\ExpInChat.csproj",
+      "packagesPath": "C:\\Users\\Avey\\.nuget\\packages\\",
+      "outputPath": "D:\\Мои роботы\\C# project\\ExpInChat\\ExpInChat\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Avey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "targetAlias": "net461",
+        "dependencies": {
+          "RocketMod.Modern.Dependencies": {
+            "target": "Package",
+            "version": "[1.1.2.5, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
